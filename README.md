@@ -1,3 +1,3 @@
 # chocolate_statistics
 Chocolate Reviews Analysis
-(image/candy chocolate phone wallpapers(rotated).jpg)
+<img src="image/candy chocolate phone wallpapers(rotated).jpg">(
