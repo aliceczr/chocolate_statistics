@@ -1,5 +1,5 @@
 # Chocolate Reviews Analysis
-<img src="image/candy chocolate phone wallpapers(rotated).jpg">(
+<img src="image/candy chocolate phone wallpapers(rotated).jpg">
 
 Este projeto consiste na análise de um conjunto de dados de avaliações de chocolates, incluindo informações como origem do feijão de cacau, porcentagem de cacau, características memoráveis e notas atribuídas.
 
@@ -43,13 +43,6 @@ O conjunto de dados utilizado neste projeto contém as seguintes colunas:
 - Matplotlib
 - Seaborn
 
-## Como Executar
-
-Para executar este projeto localmente, siga estas etapas:
-
-1. Clone este repositório: `git clone https://github.com/seu-usuario/nome-do-repositorio.git`
-2. Instale as dependências necessárias: `pip install -r requirements.txt`
-3. Execute o notebook Jupyter: `jupyter notebook`
 
 ## Contribuição
 
